@@ -9,3 +9,4 @@ torchvision
 langchain-groq
 flask
 streamlit
+langchain
